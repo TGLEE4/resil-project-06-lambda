@@ -3,4 +3,5 @@ terraform.tfstate
 terraform.tfstate.backup
 *.tfvars
 *.pem
-lambda.zipresponse.json
+lambda.zip
+response.json
